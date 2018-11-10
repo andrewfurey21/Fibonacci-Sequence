@@ -1,2 +1,3 @@
 # Fibonacci-Sequence
-I wrote a fibonacci sequence function in JS
+Fibonacci sequence function in JS
+Extra function that returns value of specified index
